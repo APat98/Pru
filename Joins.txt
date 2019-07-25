@@ -1,0 +1,5 @@
+Cartesian join – replicates each row from the first table with every row from the second table
+Equality (inner) join – creates a join by using a commonly named and defined column
+Non-equality join – joins tables where there are no equivalent rows in the tables to be joined
+Self-join – joins a table to itself
+Outer join – includes records of a table in output when there’s no matching record in the other table (LEFT, RIGHT, FULL)
